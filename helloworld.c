@@ -7,7 +7,11 @@ int sum( int a, int b )
     return a+b;
 }
 
-
+/*Function to add two numbers */
+int addsubtract( int a, int b )
+{
+    return a-b;
+}
 
 /*The main function starts here*/
 void main()
